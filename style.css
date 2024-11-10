@@ -1,0 +1,58 @@
+.elements {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  margin-top: 50px;
+}
+
+.photo {
+  width: 300px;
+  height: 300px;
+}
+
+.heading {
+  margin-left: 32%;
+  margin-bottom: 15px;
+}
+
+.text {
+  margin-left: 22%;
+  margin-top: 0;
+}
+
+.okay {
+  width: 50%;
+  height: 34px;
+  position: relative;
+  top: 3.1px;
+}
+
+.no {
+  width: 50%;
+  height: 34px;
+  margin-left: 50%;
+  position: relative;
+  top: -30px;
+}
+
+.card {
+  width: 250px;
+  border: 3px solid #ddd;
+  border-radius: 20px;
+}
+
+.Minecraft-Logo {
+  border-top-left-radius: 17px;
+  border-top-right-radius: 17px;
+}
+
+.title {
+  margin-left: 20px;
+}
+
+.pens-btn {
+  margin-left: 10px;
+  position: relative;
+  top: -12px;
+}
